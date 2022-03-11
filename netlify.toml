@@ -4,4 +4,4 @@ base = "tvt-lopputyo/"
 
 publish = "tvt-lopputyo/build/"
 
-command = "CI = npm run build"
+command = "npm run build"
