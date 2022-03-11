@@ -27,6 +27,11 @@ body {
 	font-weight: 400;
 }
 
+#subSectionHeader {
+	font-family: Roboto;
+	font-weight: 380;
+}
+
 .skillsList{
 	font-family: Roboto Serif;
 	list-style: inside;
@@ -47,15 +52,19 @@ p  {
 }
 
 .me {
-	width: 150px;
-	border-radius: 50%;
-	height: auto;
-  }
+width: 150px;
+border-radius: 50%;
+height: auto;
+}
 
-  .GitHubLogo {
-	width: 25px;
-	color: white;
-	margin-top: -45px;
-	margin-bottom: -65px;
-  }
-  
+.GitHubLogo {
+width: 25px;
+color: white;
+margin-top: -45px;
+margin-bottom: -65px;
+}
+
+b {
+	font-family: Roboto Serif;
+	font-weight: 500;
+}

@@ -4,7 +4,7 @@ Route
 } from "react-router-dom";
 
 import Home from "./Pages/Home";
-import SkillsPage from './Pages/Skills'
+import SkillsPage from './Pages/SkillsPage'
 
 function App() {
 	return (

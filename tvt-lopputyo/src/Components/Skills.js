@@ -6,10 +6,14 @@ function Skills () {
 
                 <div className="skillsList">
     
+                    <h2 id="subSectionHeader">Programming</h2>
                     <p>HTML</p>
                     <p>CSS</p>
                     <p>JavaScript</p>
                     <p><a href="https://reactjs.org">React.JS JavaScript framework</a></p>
+
+                    <p><a href="https://netlify.com">Netlify</a> <b>CD</b> (<b>C</b>ontinuous <b>D</b>eployment)</p>
+
                     <p>Photo- and videography</p>
                     <p>Photo- and video editing</p>
                 
