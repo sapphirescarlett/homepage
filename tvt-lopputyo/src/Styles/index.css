@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:100,200,300,regular,500,600,700,100italic,200italic,300italic,italic,500italic,600italic,700italic); /*Robot Mono*/
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic); /*Roboto*/
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,regular,500,600,700,800,900); /*Roboto Slab*/
+@import url(https://fonts.googleapis.com/css?family=Roboto+Serif:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+body {
+	margin: 0;
+	background-color: #373737;
+	color: whitesmoke;
+	text-align: center;
+}
+
+.Header {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#Header /* The actual text */ {
+
+	font-family: Roboto Mono;
+	font-weight: 500;
+
+}
+
+#sectionHeader {
+	font-family: Roboto Slab;
+	font-weight: 400;
+}
+
+.skillsList{
+	font-family: Roboto Serif;
+	list-style: inside;
+}
+
+p  {
+	font-weight: 250;
+}
+
+.Skills a {
+	color: whitesmoke;
+	text-decoration: none;
+}
+
+.Skills a:hover {
+	color: #947BFA;
+	text-decoration: underline;
+}
+
+.me {
+	width: 150px;
+	border-radius: 50%;
+	height: auto;
+  }
+
+  .GitHubLogo {
+	width: 25px;
+	color: white;
+	margin-top: -45px;
+	margin-bottom: -65px;
+  }
+  
