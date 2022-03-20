@@ -6,7 +6,7 @@
 :root {
 	--decor-light-violet: #947bfa;
 	--decor-dark-violet: #5e28ce;
-	--decor-pink: #a016aa;
+	--decor-dark-pink: #a016aa;
 }
 
 body {
@@ -31,6 +31,9 @@ body {
 #Header2 {
 	font-family: Roboto;
 	font-weight: 500;
+	text-decoration: underline;
+	text-decoration-color: var(--decor-dark-pink);
+	text-decoration-thickness: 2px;
 }
 
 #sectionHeader {
