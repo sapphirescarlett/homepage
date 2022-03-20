@@ -1,7 +1,7 @@
 [build]
 
-base = "tvt-lopputyo/"
+base = "homepage/"
 
-publish = "tvt-lopputyo/build/"
+publish = "build/"
 
 command = "npm run build"
