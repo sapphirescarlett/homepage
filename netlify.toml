@@ -2,6 +2,6 @@
 
 base = "homepage/"
 
-publish = "homepage/build/"
+publish = "build/"
 
 command = "npm run build"
