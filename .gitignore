@@ -106,3 +106,6 @@ dist
 # Editor & IDE Files
 .vscode
 .editorconfig
+
+# Builds don't need to be in git, Netlify CD from GitHub (creates a build anyways)
+build/ 
