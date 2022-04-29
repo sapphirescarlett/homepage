@@ -21,6 +21,9 @@ function Skills() {
 				<h2 id="subSectionHeader">Other technical skills</h2>
 				<p>Photo- and videography</p>
 				<p>Photo- and video editing</p>
+				<a href="https://instagram.com/photographysaastamoinen">
+					<p>Example photos</p>
+				</a>
 			</div>
 			<h1 id="sectionHeader">My other skills</h1>
 
@@ -33,7 +36,6 @@ function Skills() {
 				>
 					contents of the Red Cross 4h emergency first aid course
 				</a>
-				)
 			</p>
 
 			<p>First aid fire extinguishing </p>
