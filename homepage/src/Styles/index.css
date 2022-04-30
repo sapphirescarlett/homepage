@@ -14,11 +14,24 @@ body {
 	background-color: #373737;
 	color: whitesmoke;
 	text-align: center;
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: scroll;
 }
 
 .Header {
 	text-align: center;
 	margin-bottom: 50px;
+}
+
+.goHome,
+.goBack {
+	background-color: #947bfa;
+	border: none;
+	border-radius: 10px;
+	color: black;
+	margin: 10px;
 }
 
 #Header, #Header a /* The actual  header text */ {
@@ -83,4 +96,15 @@ p {
 b {
 	font-family: "Roboto Serif";
 	font-weight: 500;
+}
+
+.examplePhoto {
+	width: 35%;
+	margin: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+	.examplePhoto {
+		width: 98%;
+	} /* .examplePhoto */
 }
