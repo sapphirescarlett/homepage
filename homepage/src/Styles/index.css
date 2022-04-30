@@ -80,6 +80,16 @@ p {
 	text-decoration: underline;
 }
 
+a {
+	color: whitesmoke;
+	text-decoration: none;
+}
+
+a:hover {
+	color: whitesmoke;
+	text-decoration: none;
+}
+
 .me {
 	width: 150px;
 	border-radius: 50%;

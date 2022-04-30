@@ -19,6 +19,12 @@ export default function PhotographyPage() {
 
 			<h1 id="sectionHeader">Photography</h1>
 
+			<p>
+				<a href="https://instagram.com/photographysaastamoinen">
+					More Photos on my Instagram
+				</a>
+			</p>
+
 			<Photos />
 
 			<button className="goBack" onClick={goBack}>
