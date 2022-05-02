@@ -11,6 +11,8 @@ command = "npm run build"
   to = "/index.html"
   status = 200
 
+[[redirects]]
+
 from = "https://averynova.tk/*"
 to = "https://sapphire.saastamoinen.tk"
 status = 200
